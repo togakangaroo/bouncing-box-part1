@@ -1,4 +1,4 @@
-# Bouncing Box Game: Part 1
+# Bouncing Box Game: Part 1 (An amazing project)
 
 We're going to create a simple game where a box moves across the screen at an increased speed after each click.
 
